@@ -1,0 +1,2 @@
+./keyhunt -m address -f work/67.txt -b 67 -l compress -R -q -s 10 -t6
+./keyhunt -m bsgs -f work/key_135.txt -b 135 -q -s 10 -R -t3 -k 1024
